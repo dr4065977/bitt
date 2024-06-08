@@ -1,0 +1,4 @@
+RewriteEngine on
+Options All -Indexes
+ErrorDocument 404 /error404.html
+ 
